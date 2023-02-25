@@ -1,1 +1,1 @@
-alert("Let's defer Hello World until the page loads")
+alert("Let's defer Hello World until after the H2 in the page")
